@@ -1,1 +1,2 @@
 # odin-recipes
+Recipes is a html website that covers the basics of learning html. We are building a main index page that has links to a few recipes. You will demonstrate basics of html such as anchors, lists, headings, etc.
