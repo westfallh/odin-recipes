@@ -1,0 +1,31 @@
+* {
+    background-color: white;
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+}
+
+* ul{
+    list-style: none;
+}
+
+#homebutton {
+    margin: 8px 0px 8px 8px;
+}
+
+.titlepage {
+    text-align: left;
+    margin-left: 40px;
+    margin-bottom: 8px;
+    border: solid 2px;
+    padding: 8px;
+    width: 210px;
+}
+
+ul {
+    padding-left: 40px;
+}
+button {
+    padding: 8px;
+    margin-bottom: 8px;
+}
